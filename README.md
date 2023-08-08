@@ -22,7 +22,7 @@ Before you begin, make sure you have the following installed:
 
 1. Create a PostgreSQL database named `taskdb` with the following configuration:
 
-   - URL: `jdbc:postgresql://localhost:5432/taskdb`
+   - URL: `jdbc:postgresql://localhost:5432/taskdb` // or change as per your db port number
    - Username: `postgres`
    - Password: `root` // you can change as per your password
 
