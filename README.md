@@ -166,8 +166,3 @@ json
 
 Please replace `{id}` with the actual ID of the task you're working with.
 
-## Conclusion
-
-Congratulations! You've set up the Task Tracker API project successfully. Feel free to explore and customize the codebase to fit your needs. If you encounter any issues or have questions, please refer to the documentation or reach out for assistance.
-
-Happy coding!
